@@ -1,1 +1,1 @@
-# Math460
+# Math460 - Taylor McKinley and Robert Persechino
